@@ -147,7 +147,7 @@ The project also includes a dynamic Power BI dashboard with key metrics and inte
 
 ## 📸 Screenshots
 
-You can find full dashboard screenshots inside the `assets/images/` folder for reference.
+You can find full dashboard screenshots inside the `images/` folder for reference.
 
 ---
 
